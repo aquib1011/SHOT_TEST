@@ -1,5 +1,4 @@
-# SHOT_TEST
-Download the dataset (office-home) : https://drive.google.com/file/d/0B81rNlvomiwed0V1YUxQdC1uOTg/view?resourcekey=0-2SNWq0CDAuWOBRRBL7ZZsw
+Download the dataset : https://drive.google.com/file/d/0B81rNlvomiwed0V1YUxQdC1uOTg/view?resourcekey=0-2SNWq0CDAuWOBRRBL7ZZsw
 
 Step 1 : To Generate List for the datasets. 
 Three different datasets are used (office, office-home, VISDA-C). Datasets are stored in data directory.
